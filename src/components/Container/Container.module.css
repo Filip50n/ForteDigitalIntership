@@ -1,0 +1,14 @@
+.container{
+    background-color: #F7F7F7;
+    margin: auto;
+    margin-top: 136px;
+    width: 656px;
+    /* height: 680px; */
+}
+
+.background{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+}

@@ -1,0 +1,29 @@
+.back{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0px;
+    gap: 8px;
+    border: 0px;
+
+    position: absolute;
+    width: 112px;
+    height: 48px;
+    left: calc(50% - 112px/2 - 272px);
+    top: 40px;
+}
+
+.back label{
+    margin-bottom: 0px;
+    margin-left: 8px;
+}
+
+
+a:link{
+    display: flex;
+    align-items: center;
+    color: #222222;
+    text-decoration: none;
+}
